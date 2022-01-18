@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">🌱 Today 🌱 /h3>
+<h3 align="center">🌱 Today 🌱</h3>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmrae0624&count_bg=%23AADDF9&title_bg=%236C6C6C&icon=github.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmrae0624&count_bg=%2377B8DD&title_bg=%236C6C6C&icon=github.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 <br><br>
 
@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 <br><br>
 
 <p align="center">
-![lmrae0624's github stats](https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice) [![lmrae0624's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=004386&layout=compact&theme=dark)](https://github.com/lmrae0624)
+![lmrae0624's github stats](https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice) 
+[![lmrae0624's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&show_icons=true&hide_border=true&title_color=FFFFFF&icon_color=004386&layout=compact&theme=dark)](https://github.com/lmrae0624)
 </p>
