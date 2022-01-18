@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmrae0624&count_bg=%237BBBF5&title_bg=%236A6A6A&icon=github.svg&icon_color=%23E7E7E7&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
 
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
@@ -32,5 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
+
+
 
 ![lmrae0624's github stats](https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=react) [![lmrae0624's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&show_icons=true&hide_border=true&title_color=6DD4FD&icon_color=004386&layout=compact&theme=dark)](https://github.com/lmrae0624)
