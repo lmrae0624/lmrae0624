@@ -1,5 +1,6 @@
+
 <h3 align="center"> Hi there, I'm Mirae!👋 </h3>
----
+
 <h3 align="center"> 🛠  Tech Stack 🛠 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
@@ -14,8 +15,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 <br><br>
----
-<h3 align="center"> 🌱 Git Stats 🌱 </h3>
+
+## 🌱 Git Stats 🌱 
 ![lmrae0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
