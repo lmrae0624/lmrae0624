@@ -1,6 +1,6 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2376ABDF&size=40&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Mirae+!+%F0%9F%91%8B)](https://git.io/typing-svg)
-
+<div align="center">
+  
 <br><br><br>
 
 ## 🛠  Tech Stack 🛠
