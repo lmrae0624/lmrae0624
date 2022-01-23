@@ -22,9 +22,13 @@
 <br><br>
 
 
- 🌱 Git Stats 🌱
-![lmrae0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice&width=49.2%&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&layout=compact&theme=apprentice&hide_border=true&title_color=76ABDF&width=49.2%)](https://github.com/anuraghazra/github-readme-stats)
+<h3> 🌱 Git Stats 🌱 </h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmrae0624&show_icons=true&theme=apprentice&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF" width=49.2%/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmrae0624&layout=compact&theme=apprentice&hide_border=true&title_color=76ABDF"  width=49.2%/>
+</a> 
 
 <br><br>
 
