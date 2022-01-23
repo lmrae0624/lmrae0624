@@ -1,11 +1,12 @@
-<br>
+<div align="center">
+<br><br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2376ABDF&size=40&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Mirae+!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<div align="center">
+
   
 <br><br>
 
-  <h3> 🛠  Tech Stack 🛠 </h3>
+<h3> 🛠  Tech Stack 🛠 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
@@ -21,13 +22,12 @@
 
 <br><br>
 
-
 <h3> 🌱 Git Stats 🌱 </h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmrae0624&show_icons=true&theme=apprentice&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF" width=49.2%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF" width=49.2%/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lmrae0624&layout=compact&theme=apprentice&hide_border=true&title_color=76ABDF"  width=49.2%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&layout=compact&theme=apprentice&hide_border=true&title_color=76ABDF"  width=49.2% >
 </a> 
 
 <br><br>
