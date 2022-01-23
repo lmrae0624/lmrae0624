@@ -1,9 +1,11 @@
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=%2376ABDF&size=40&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Mirae+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <div align="center">
   
-<br><br><br>
+<br><br>
 
-## 🛠  Tech Stack 🛠
+  <h3> 🛠  Tech Stack 🛠 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
@@ -19,11 +21,11 @@
 
 <br><br>
 
-## 🌱 Git Stats 🌱
+<h3> 🌱 Git Stats 🌱</h3>
 ![lmrae0624's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice&width=49.2%&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&layout=compact&theme=apprentice&hide_border=true&title_color=76ABDF&width=49.2%)](https://github.com/anuraghazra/github-readme-stats)
 
-<br><br><br>
+<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmrae0624&count_bg=%2376ABDF&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
