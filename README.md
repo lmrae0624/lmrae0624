@@ -24,7 +24,7 @@
 
 <h3> 🌱 Git Stats 🌱 </h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF" width=54.2%/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmrae0624&show_icons=true&theme=apprentice&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=76ABDF" width=53.8%/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmrae0624&layout=compact&theme=apprentice&hide_border=true&title_color=76ABDF"  width=45.2% >
